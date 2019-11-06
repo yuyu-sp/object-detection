@@ -11,7 +11,6 @@ I also made a YouTube video that walks through this tutorial. Any discrepancies 
 
 **If there are differences between this written tutorial and the video, follow the written tutorial!**
 
-[![Link to my YouTube video!](https://raw.githubusercontent.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/master/doc/YouTube%20video.jpg)](https://www.youtube.com/watch?v=Rgpfk6eYxJA)
 
 This readme describes every step required to get going with your own object detection classifier: 
 1. [Installing Anaconda, CUDA, and cuDNN](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10#1-install-anaconda-cuda-and-cudnn)
